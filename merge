@@ -1,0 +1,10 @@
+on:
+
+services:
+
+  web:
+      image: iginx
+
+        database:
+	    image: redis
+
